@@ -6,6 +6,7 @@ import java.util.HashSet;
 //Time Complexity -> O(n)
 //Optimal for Google -> Yes
 //Time Spent -> 5mins, 03/17/26
+//Times googled -> 3 times checked counting and freq storing DS
 public class ContainsDuplicate {
     public boolean hasDuplicate(int[] nums) {
         HashSet<Integer> hash = new HashSet<>();
